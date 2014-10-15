@@ -27,7 +27,7 @@ function enqueue_dependencies()
         'start-js', 
         plugins_url( '/js/start.js', __FILE__ ), 
         array( 'js', 'jmap-js', 'world-js', 'unregions-js', 'regioncolors-js', 'chart-js' ), // dependencies
-        false, // version
+        false,
         true   // will load start-js on footer, the rest goes on header
     );
 
