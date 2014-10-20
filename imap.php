@@ -85,7 +85,7 @@ function get_chart_data(){
     case 'French Polynesia':
       $barData = $region1Data;
       $barColor = $region1Color;
-      $title = "Asia Scripture Distribution Goals for 2015";
+      $title = "Asia Scripture Impact Goals for 2015";
       break;
 
     //Middle East
@@ -114,7 +114,7 @@ function get_chart_data(){
     case 'Egypt':
       $barData = $region2Data;
       $barColor = $region2Color;
-      $title = "Middle East Scripture Distribution Goals for 2015";
+      $title = "Middle East Scripture Impact Goals for 2015";
       break;
 
     //Africa
@@ -173,7 +173,7 @@ function get_chart_data(){
     case 'Togo':
       $barData = $region3Data;
       $barColor = $region3Color;
-      $title = "Africa Scripture Distribution Goals for 2015";
+      $title = "Africa Scripture Impact Goals for 2015";
       break;
 
       //Europe
@@ -218,7 +218,7 @@ function get_chart_data(){
     case 'Georgia':
       $barData = $region4Data;
       $barColor = $region4Color;
-      $title = "Europe Scripture Distribution Goals for 2015";
+      $title = "Europe Scripture Impact Goals for 2015";
       break;
 
       //America
@@ -261,7 +261,7 @@ function get_chart_data(){
     case 'Venezuela':
       $barData = $region5Data;
       $barColor = $region5Color;
-      $title = "Americas Scripture Distribution Goals for 2015";
+      $title = "Latin America Scripture Impact Goals for 2015";
       break;
   }
 
